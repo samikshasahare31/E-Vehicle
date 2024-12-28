@@ -1,5 +1,6 @@
 {
-  "name": "https://samikshasahare31.github.io/E-Vehicle",
+  "homepage": "https://samikshasahare31.github.io/E-Vehicle",
+  "name": "EVehicle",
   "private": true,
   "version": "0.0.0",
   "type": "module",
