@@ -43,7 +43,7 @@
     <h2>📋 Setup Instructions</h2>
     <ol>
       <li>Clone the repository:
-        <pre><code>git clone https://github.com/samikshasahare31/EV-Insight-Hub.git</code></pre>
+        <pre><code>git clone https://github.com/samikshasahare31/E-Vechicle.git</code></pre>
       </li>
       <li>Navigate to the project folder and install dependencies:
         <pre><code>cd EV-Insight-Hub
