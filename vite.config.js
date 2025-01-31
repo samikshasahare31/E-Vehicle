@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/EV-INSIGHT-HUB/', // Add this line
+  base: '/E-Vehicle/', // Add this line
 });
